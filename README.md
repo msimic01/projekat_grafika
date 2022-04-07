@@ -2,7 +2,7 @@
 
 Miljama daleko od civilizacije pronadjeno je ostrvo sa skrivenim blagom.Budi prvi koji ce stici do njega!
 
-#Uputstvo
+# Uputstvo
 
 * Direktorijum **objects** koji je potrebno preuzeti i ubaciti u direktorijum **resources** mozete pronaci [ovde](https://drive.google.com/drive/folders/1vwTxchFexPfFexZWhbYOWwNOQ-txcErw?usp=sharing).
 
