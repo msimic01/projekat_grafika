@@ -4,7 +4,7 @@ Miljama daleko od civilizacije pronadjeno je ostrvo sa skrivenim blagom.Budi prv
 
 #Uputstvo
 
-* Direktorijum **objects** koji je potrebno preuzeti i ubaciti u direktorijum **resources**:
+* Direktorijum **objects** koji je potrebno preuzeti i ubaciti u direktorijum **resources** mozete pronaci [ovde](https://drive.google.com/drive/folders/1vwTxchFexPfFexZWhbYOWwNOQ-txcErw?usp=sharing)
 
 
 #Dugmici
@@ -37,14 +37,7 @@ Miljama daleko od civilizacije pronadjeno je ostrvo sa skrivenim blagom.Budi prv
 
 # Galerija
 
-* Kratak snimak i ostale slike mozete pogledati [ovde](https://drive.google.com/drive/folders/1K3REEtZoArluJljD6IAru6Jv1DZa2ukd?usp=sharing).
-
-![S1](https://drive.google.com/file/d/1Sk13KisWhPxoauwhpuXBB0KwL9adh5D7/view?usp=sharing )\
-![S2](https://drive.google.com/file/d/1z-T9s6zZS0wlE2Jd6FewCy41bicsDzIE/view?usp=sharing )\
-![S3]( https://drive.google.com/file/d/1MdQda5bVIaxq8ER-SIH3PC3GWC0_O2PL/view?usp=sharing )\
-![S4](https://drive.google.com/file/d/1CS1TEk1yxLN0uRXl4b2bkvC01t01aHlO/view?usp=sharing )\
-![S5](https://drive.google.com/file/d/17f2jaD1YgCP7EV2TLl9fsw3reJbufEza/view?usp=sharing )\
-![S6]( https://drive.google.com/file/d/1xRi6qZQxSBsAbLp5iGYfrhP_uK6LfepQ/view?usp=sharing )
+* Kratak snimak i slike mozete pogledati [ovde](https://drive.google.com/drive/folders/1K3REEtZoArluJljD6IAru6Jv1DZa2ukd?usp=sharing).
 
 # Autor
 
