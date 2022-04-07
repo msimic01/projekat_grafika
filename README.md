@@ -1,13 +1,13 @@
-#The lost treasure
+# The lost treasure
 
 Miljama daleko od civilizacije pronadjeno je ostrvo sa skrivenim blagom.Budi prvi koji ce stici do njega!
 
 #Uputstvo
 
-* Direktorijum **objects** koji je potrebno preuzeti i ubaciti u direktorijum **resources** mozete pronaci [ovde](https://drive.google.com/drive/folders/1vwTxchFexPfFexZWhbYOWwNOQ-txcErw?usp=sharing)
+* Direktorijum **objects** koji je potrebno preuzeti i ubaciti u direktorijum **resources** mozete pronaci [ovde](https://drive.google.com/drive/folders/1vwTxchFexPfFexZWhbYOWwNOQ-txcErw?usp=sharing).
 
 
-#Dugmici
+# Dugmici
 
 * **W,A,S,D** -kretanje po sceni
 * **B**-uljucuje i iskljucuje Bloom
@@ -18,7 +18,7 @@ Miljama daleko od civilizacije pronadjeno je ostrvo sa skrivenim blagom.Budi prv
 * **f1**-gui za fina podesavanja
 * **f2**-slobodno kretanje
 
-#Resursi
+# Resursi
 
 * [Kovceg](https://sketchfab.com/3d-models/armada-chest-82202f320d954ca5a2c59ca05a71c21d)
 * [Kuca](https://sketchfab.com/3d-models/rock-house-picnic-shelter-inside-outside-4959c7602456472da63b49f99cb3a2a3)
@@ -29,7 +29,7 @@ Miljama daleko od civilizacije pronadjeno je ostrvo sa skrivenim blagom.Budi prv
 
 
 
-#Oblasti iz grupe A i B koje su implementirane
+# Oblasti iz grupe A i B koje su implementirane
 
 * **Cubemaps**
 * **HDR**
