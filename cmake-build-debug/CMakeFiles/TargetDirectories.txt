@@ -1,0 +1,10 @@
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/CMakeFiles/project_base.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/libs/glad/CMakeFiles/edit_cache.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/libs/glad/CMakeFiles/rebuild_cache.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/libs/glad/CMakeFiles/glad.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/libs/imgui/CMakeFiles/rebuild_cache.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/libs/imgui/CMakeFiles/edit_cache.dir
+/home/mileva/Desktop/projekat_RG/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir

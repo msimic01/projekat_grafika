@@ -1,0 +1,5 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -G Ninja /home/mileva/Desktop/projekat_RG
+-- Found ASSIMP: /usr/lib/x86_64-linux-gnu/libassimp.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mileva/Desktop/projekat_RG/cmake-build-debug
